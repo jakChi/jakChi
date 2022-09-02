@@ -2,4 +2,4 @@
 - 👀 I’m interested in web-apps.
 - 🌱 I’m currently learning front-end engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 Here's my twitter acc: https://twitter.com/Iakob23499435
+- 📫 Here's my facebook acc: https://www.facebook.com/jacob.tchintcharauli

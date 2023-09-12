@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jakChi, a self taught programmer who needs a job...
-- 👀 I’m interested in web-apps.
-- 🌱 I’m currently learning front-end engineering.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @jakChi, a self taught React Developer 
+- 👀 I’m interested in Freelancing.
+- 🌱 I’m currently learning React and Python.
+- 💞️ I’m looking to collaborate on Frontend projects built with ReactJs.
 - 📫 Here's my facebook acc: https://www.facebook.com/jacob.tchintcharauli

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakChi, a self taught React Developer 
 - 👀 I’m interested in Freelancing.
-- 🌱 I’m currently learning React and Python.
+- 🌱 I’m currently learning React and C++ and also Computational biology
 - 💞️ I’m looking to collaborate on Frontend projects built with ReactJs.
 - 📫 Here's my facebook acc: https://www.facebook.com/jacob.tchintcharauli

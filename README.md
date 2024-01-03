@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @jakChi, a self taught React Developer 
-- 👀 I’m interested in Freelancing.
-- 🌱 I’m currently learning React and C++ and also Computational biology
-- 💞️ I’m looking to collaborate on Frontend projects built with ReactJs.
-- 📫 Here's my facebook acc: https://www.facebook.com/jacob.tchintcharauli
+## Hi 👋
+
+My name is Jakob, I am a self-taught **React developer**, and I design & develop web apps.
+Also, I'm learning **bioinformatics**. I'm specifically interested in **computational biology** but currently, I don't have any work in that field 😞.  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakChi)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,10 +1,4 @@
-## Hi 👋
-
-My name is Jakob, I am a self-taught **React developer**, and I design & develop web apps.
-Also, I'm learning **bioinformatics**. I'm specifically interested in **computational biology** but currently, I don't have any work in that field 😞.  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakChi&show_icons=true&theme=merko)
-
+  
 <h1 align="center">Hi 👋, I'm Jakob</h1>
 <h3 align="center">Frontend Developer</h3>
 
@@ -29,7 +23,7 @@ Also, I'm learning **bioinformatics**. I'm specifically interested in **computat
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakchi&show_icons=true&locale=en&layout=compact" alt="jakchi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakchi&show_icons=true&locale=en" alt="jakchi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakChi&show_icons=true&theme=merko" alt="jakchi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakchi&" alt="jakchi" /></p>
 

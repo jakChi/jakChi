@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++, Python for Bioengineering**
 
-- 👯 I’m looking to collaborate on **Photo analizer app**
+- 👯 I’m looking to collaborate on **Jlog**
 
 - 👨‍💻 All of my projects are available at [https://jakchi.github.io/portfolio-bs](https://jakchi.github.io/portfolio-bs)
 

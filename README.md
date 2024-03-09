@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Jlog**
 
-- 👨‍💻 All of my projects are available at [https://jakchi.github.io/portfolio-bs](https://jakchi.github.io/portfolio-bs)
+- 👨‍💻 All of my projects are available at [here](https://jakchi.github.io/portfolio-bs)
 
 - 📫 How to reach me **kobachincharauli8@gmail.com**
 

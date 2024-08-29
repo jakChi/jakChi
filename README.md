@@ -1,4 +1,4 @@
-
+- 🌳 experience: NextJs, Redux, TailwindCss, FramerMotion, Firebase
 
 - 🌱 I’m currently learning **C++, Python for Bioengineering**
 

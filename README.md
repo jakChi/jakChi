@@ -2,10 +2,6 @@
 
 - 🌱 I’m currently learning **C++, Python for Bioengineering**
 
-- 👯 I’m looking to collaborate on **Blog v2**
-
-- 👨‍💻 All of my projects are available at [here](https://jakchi.github.io/portfolio-bs)
-
 - 📫 How to reach me **kobachincharauli8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
